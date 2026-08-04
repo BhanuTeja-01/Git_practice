@@ -1,0 +1,4 @@
+echo "Third line" >> hello.txt
+git add .
+git commit -m "Added third line"
+git push
