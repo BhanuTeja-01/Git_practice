@@ -1,0 +1,4 @@
+this is the file to view what does git add to:
+
+
+so when you run git add <......> it adds the file to the local repo from working space
