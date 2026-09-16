@@ -1,0 +1,20 @@
+if we use ioc 
+ where creating of object and manging of the object is handoverded to ioc    so we don't need to create the object and manage them 
+
+creating and manging the object the object is manged by spring 
+so by using ioc we handle this problem
+
+
+so this is done by @component   annotation which creates and manages the object
+
+what ever the objects are created by using @component  the ojects are stored in ioc container 
+
+
+dependency injection:
+
+providing the particular objects from outside the other class
+
+this can be done by @autowired
+
+
+
